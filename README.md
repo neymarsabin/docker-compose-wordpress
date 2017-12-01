@@ -25,3 +25,5 @@ phpmyadmin:
 ```
 
 Please replace  your MySQL username and password!
+
+For full tutorial on how to setup **wordpress** using _docker-compose_ please visit [How To Install Wordpress and PhpMyAdmin with Docker Compose on Ubuntu 14.04.](https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-and-phpmyadmin-with-docker-compose-on-ubuntu-14-04)
